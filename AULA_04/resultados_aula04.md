@@ -36,7 +36,7 @@ suporte, reclamações, trocas, vendas. Foi identificado muitos erros, de frases
 
 ## 2. Análise dos Testes de Entrada (`input()`)
 - **Comportamento do KNN (10 testes):** Como o KNN reagiu às variações das frases digitadas e ao fallback?
-Reagiu tentou encaixar as frases nas intenções do dataset, frases que não tinham muita relação com nenhuma das categorias, a confiança geralmente ficou em torno de 66%.
+Reagiu tentando encaixar as frases nas intenções do dataset, frases que não tinham muita relação com nenhuma das categorias, a confiança geralmente ficou em torno de 66%.
   
 - **Comportamento da Decision Tree (8 testes):** Como a Árvore de Decisão se comportou em comparação ao KNN?
 Péssimo, tentou encaixar todas as frases nas categorias disponíveis, mesmo quando não havia relação com nenhuma delas, e apresentou erros até mesmo em frases que tinham uma intenção claramente definida.
