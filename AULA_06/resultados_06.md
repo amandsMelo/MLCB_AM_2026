@@ -34,4 +34,23 @@ Keyboard interruption in main thread... closing server.
 Killing tunnel 127.0.0.1:7860 <> https://d36eaa6f0b6ba99b46.gradio.live
 
 LAB 03: Expansão de Classe (Data Drift & Novas Intenções)
+Carregando modelo morfológico Spacy...
+Carregando GloVe...
+Dataset carregado com 25 mensagens divididas em 5 intenções.
 
+Quantidade de exemplos por intenção:
+intencao
+comprar_imovel          5
+alugar_imovel           5
+suporte_manutencao      5
+2via_boleto_contrato    5
+cancelar_contrato       5
+Name: count, dtype: int64
+
+Formato da matriz X: (25, 50)
+Formato do vetor y: (25,)
+
+Modelo supervisionado treinado!
+Classes aprendidas pelo modelo:
+['2via_boleto_contrato' 'alugar_imovel' 'cancelar_contrato'
+ 'comprar_imovel' 'suporte_manutencao']
