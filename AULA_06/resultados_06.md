@@ -19,7 +19,8 @@ This share link is temporary and will last for up to 1 week (best effort). For f
 Keyboard interruption in main thread... closing server.
 Killing tunnel 127.0.0.1:7860 <> https://f16e53bb6189705786.gradio.live
 
-LAB 02: Ajuste de Governança e Regra de Fallback Dinâmica
+LAB 02: Ajuste de Governança e Regra de Fallback Dinâmica:
+
 Carregando modelo Spacy...
 Carregando GloVe...
 Dataset carregado com 20 mensagens e 4 intenções.
@@ -33,7 +34,8 @@ This share link is temporary and will last for up to 1 week (best effort). For f
 Keyboard interruption in main thread... closing server.
 Killing tunnel 127.0.0.1:7860 <> https://d36eaa6f0b6ba99b46.gradio.live
 
-LAB 03: Expansão de Classe (Data Drift & Novas Intenções)
+LAB 03: Expansão de Classe (Data Drift & Novas Intenções):
+
 Carregando modelo morfológico Spacy...
 Carregando GloVe...
 Dataset carregado com 25 mensagens divididas em 5 intenções.
